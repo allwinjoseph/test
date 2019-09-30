@@ -1,0 +1,18 @@
+url: 
+baseurl: 'https://hearing-evaluation-testing.americanhearingsd.com'
+
+
+# Site settings
+logo: 'img/logo.png'
+title: Welcome | Sonus Hearing Care Professionals in San Diego.
+email: sonushearingsd@gmail.com
+description: "Hearing healthcare professionals offering the best hearing aids, hearing tests, hearing aid repair and audiology service in San Diego. Call today.."
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/
+  - title: facebook
+    url: http://facebook.com/
+
